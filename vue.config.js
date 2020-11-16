@@ -19,5 +19,6 @@ module.exports = {
         sizes: '192x192',
       },
     ],
+    prefer_related_applications: false,
   },
 };
